@@ -1,6 +1,6 @@
 # Meta-Heurística híbrida para problema de roteamento
 **Mateus Gomes Cabana**  
-**Orientadora: Prof a . Dr a Andrea Carla Gonçalves Vianna**
+**Orientadora: Profª. Drª. Andrea Carla Gonçalves Vianna**
 ***
 Problemas que envolvem a roteirizarão de veículos aparecem freqüentemente na área de
 logística. Um problema clássico é o Problema do Caixeiro Viajante (PCV) que

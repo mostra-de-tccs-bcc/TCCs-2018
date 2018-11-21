@@ -1,6 +1,6 @@
 # Métodos estatísticos para detecção de bots maliciosos
 **Caio Henrique Assad Racy**  
-**Orientador: Dr, Kelton Augusto Pontara da Costa**
+**Orientador: Dr. Kelton Augusto Pontara da Costa**
 
 ***
 

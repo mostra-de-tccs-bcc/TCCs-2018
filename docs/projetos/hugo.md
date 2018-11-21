@@ -1,6 +1,6 @@
 # Compressão de imagem e aplicação de um método
 **Hugo Cicarelli**  
-**Orientador(a): Prof. Dra. Simone das Graças Domingues Prado**
+**Orientadora: Profª. Drª. Simone das Graças Domingues Prado**
 ***
 Nos últimos anos, o número do uso de mídias digitais aumentou exponencialmente,
 fazendo com que velocidade de conexão com a Internet e capacidade de armazenamento

@@ -7,29 +7,39 @@ module.exports = {
         ['link', { rel: 'icon', href: '/logo.png' }]
     ],
     themeConfig: {
+        search: false,
+        nav: [
+            { text: 'Projetos', link: '/projetos/' }
+        ],
         sidebar: {
-            '/alunos/': [
-                ['aron', 'Aron Barreira Bordin'],
-                ['barbara', 'Barbara Carvalho Silva'],
-                ['caio', 'Caio Henrique Assad Racy'],
-                ['emerson', 'Emerson Belancieri de Souza'],
-                ['guilherme', 'Guilherme Silvestre'],
-                ['hugo', 'Hugo Cicarelli'],
-                ['joao', 'João Pedro Mucheroni Covolan'],
-                ['karoline', 'Karoline Keiko Ikenami'],
-                ['lucas', 'Lucas Fernandes Nogueira'],
-                ['luccas', 'Luccas Fernandes de Quadros'],
-                ['luis_fel', 'Luis Felipe Bueno da Silva'],
-                ['luis_fer', 'Luis Fernando de Oliveira Uzai'],
-                ['luiz_g', 'Luiz Guilherme Silva'],
-                ['marcello', 'Marcello Cainelli Filho'],
-                ['mariana', 'Mariana Dias'],
-                ['mateus', 'Mateus Gomes Cabana'],
-                ['matheus', 'Matheus Solha'],
-                ['renata', 'Renata  Falguera Gonçalves'],
-                ['rodrigo', 'Rodrigo Bueno'],
-                ['victor', 'Victor Hugo da Silva Dias'],
-            ]
+            '/projetos/': [
+                {
+                    title: 'Alunos',
+                    collapsable: false,
+                    children: [
+                        ['aron', 'Aron Barreira Bordin'],
+                        ['barbara', 'Barbara Carvalho Silva'],
+                        ['caio', 'Caio Henrique Assad Racy'],
+                        ['emerson', 'Emerson Belancieri de Souza'],
+                        ['guilherme', 'Guilherme Silvestre'],
+                        ['hugo', 'Hugo Cicarelli'],
+                        ['joao', 'João Pedro Mucheroni Covolan'],
+                        ['karoline', 'Karoline Keiko Ikenami'],
+                        ['lucas', 'Lucas Fernandes Nogueira'],
+                        ['luccas', 'Luccas Fernandes de Quadros'],
+                        ['luis_fel', 'Luis Felipe Bueno da Silva'],
+                        ['luis_fer', 'Luis Fernando de Oliveira Uzai'],
+                        ['luiz_g', 'Luiz Guilherme Silva'],
+                        ['marcello', 'Marcello Cainelli Filho'],
+                        ['mariana', 'Mariana Dias'],
+                        ['mateus', 'Mateus Gomes Cabana'],
+                        ['matheus', 'Matheus Solha'],
+                        ['renata', 'Renata  Falguera Gonçalves'],
+                        ['rodrigo', 'Rodrigo Bueno'],
+                        ['victor', 'Victor Hugo da Silva Dias'],
+                    ],
+                },
+            ],
         }
     },
 }

@@ -1,6 +1,6 @@
 # Reconhecimento óptico de caracteres manuscritos usando redes neurais convolucionais
 **Luis Fernando de Oliveira Uzai**  
-**Orientador(a): Prof. Associado Aparecido Nilceu Marana**
+**Orientador: Prof. Associado Aparecido Nilceu Marana**
 ***
 O ser humano por natureza possui uma grande capacidade de reconhecer padrões
 visuais com diversos níveis de complexidade - é capaz de identificar formas, linhas,
