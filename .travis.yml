@@ -1,21 +1,21 @@
 language: node_js
 node_js:
-- 10
+  - 10
 env:
-- CXX=g++-4.8
+  - CXX=g++-4.8
 addons:
   apt:
     sources:
-    - ubuntu-toolchain-r-test
-      packages:
+      - ubuntu-toolchain-r-test
+    packages:
       - g++-4.8
 install:
-- yarn global add vuepress
+  - yarn global add vuepress
 script:
-- yarn docs:build
+  - yarn docs:build
 cache:
   directories:
-  - node_modules
+    - node_modules
 notifications:
   email: false
 deploy:
@@ -27,4 +27,4 @@ deploy:
   keep-history: true
   target-branch: gh-pages
   on:
-    branch: gh-pages
+    branch: master
