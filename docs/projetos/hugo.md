@@ -1,4 +1,4 @@
-# Compressão de imagem e aplicação de um método
+# Aplicação do Método de Huffman em Compressão de Imagem e Estudo de Métodos Lossless
 **Hugo Cicarelli**  
 **Orientadora: Profª. Drª. Simone das Graças Domingues Prado**
 ***
@@ -11,5 +11,4 @@ uma quantidade menor de bits. Nesse estudo, iremos abordar algumas técnicas de
 compressão aplicadas a arquivos de imagens e será desenvolvida uma aplicação
 utilizando um dos métodos estudados.  
 
-**Palavras-chave: compressão de imagem, compactação, otimização, seo, jpeg, png,
-huffman**
+**Palavras-chave: compressão de imagem, compactação, otimização, seo, jpeg, png, huffman**
