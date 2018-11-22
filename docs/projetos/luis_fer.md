@@ -18,3 +18,7 @@ desenvolvido um aplicativo para testar o classificador de caracteres manuscritos
 implementado em QT e QML.  
 
 **Palavras-chave: Redes Neurais Convolucionais, Aprendizado de Máquina, Aprendizado Profundo, Reconhecimento Óptico de Caracteres, EMNIST.**
+
+## Downloads
+
+<a :href="$withBase('/files/resumo_luis_fer.pdf')" download>Resumo</a>

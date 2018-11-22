@@ -17,3 +17,7 @@ meta-heurísticas. Analises foram feitas para estudar vantagens e desvantagens d
 método, bem como um estudo aprofundado com o sistema híbrido  
 
 **Palavras-chave: Otimização; Caixeiro Viajante; Meta-heurísticas; Rede Neural.**
+
+## Downloads
+
+<a :href="$withBase('/files/resumo_mateus.pdf')" download>Resumo</a>

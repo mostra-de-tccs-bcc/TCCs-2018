@@ -13,7 +13,7 @@ Utilize a barra de navegação por aluno a esquerda da tela ou a lista dos proje
 
 * [Aplicação da computação gráfica por meio da elaboração de maquetes digitais utilizando sketchup](/projetos/guilherme.md)
 
-* [Compressão de imagem e aplicação de um método](/projetos/hugo.md)
+* [Aplicação do Método de Huffman em Compressão de Imagem e Estudo de Métodos Lossless](/projetos/hugo.md)
 
 * [Programação não linear para dimensionamento de biodigestores rurais](/projetos/joao.md)
 

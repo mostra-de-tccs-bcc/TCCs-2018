@@ -15,3 +15,7 @@ dificulta a identificação em tempo real das posições dos elementos – robô
 durante uma partida.  
 
 **Palavras-chave: Ciência da Computação, Visão Computacional, Computador de Placa Única, Robótica, IEEE Very Small Size Soccer, Banana Pi, Futebol de Robôs, Run Length Encoding.**
+
+## Downloads
+
+<a :href="$withBase('/files/resumo_rodrigo.pdf')" download>Resumo</a>

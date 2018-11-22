@@ -1,4 +1,5 @@
 # Aplicação do Método de Huffman em Compressão de Imagem e Estudo de Métodos Lossless
+
 **Hugo Cicarelli**  
 **Orientadora: Profª. Drª. Simone das Graças Domingues Prado**
 ***
@@ -12,3 +13,7 @@ compressão aplicadas a arquivos de imagens e será desenvolvida uma aplicação
 utilizando um dos métodos estudados.  
 
 **Palavras-chave: compressão de imagem, compactação, otimização, seo, jpeg, png, huffman**
+
+## Downloads
+
+<a :href="$withBase('/files/resumo_hugo.pdf')" download>Resumo</a>
