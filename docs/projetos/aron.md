@@ -8,4 +8,6 @@
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_aron.doc')" download>Resumo</a>
+
+<p><a :href="$withBase('/files/resumo_aron.doc')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_aron.pdf')" download>Apresentação</a></p>

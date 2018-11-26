@@ -18,4 +18,5 @@ durante uma partida.
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_rodrigo.pdf')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_rodrigo.pdf')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_rodrigo.pdf')" download>Apresentação</a></p>

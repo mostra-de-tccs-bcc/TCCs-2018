@@ -8,4 +8,5 @@ Os biodigestores rurais são hoje uma importante alternativa para a geração de
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_joao.doc')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_joao.doc')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_joao.pdf')" download>Apresentação</a></p>

@@ -8,4 +8,6 @@ Com o grande avanço tecnológico eminente nesse século XXI surgem diversos mei
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_renata.doc')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_renata.doc')" download>Resumo</a></p>
+<p><a href="https://prezi.com/view/Uli8Ei54oM05Ub2oqGRr/">Apresentação</a></p>
+

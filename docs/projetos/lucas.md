@@ -8,4 +8,5 @@ O problema de corte de estoque unidimensional é um problema clássico da litera
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_lucas.doc')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_lucas.doc')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_lucas.pdf')" download>Apresentação</a></p>

@@ -8,4 +8,5 @@ Com os avanços tecnológicos, que culminaram numa sociedade cada vez mais conec
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_luccas.docx')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_luccas.docx')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_luccas.pdf')" download>Apresentação</a></p>

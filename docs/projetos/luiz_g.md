@@ -8,4 +8,5 @@ Segurança é uma área de preocupação diária que afeta muitos setores da soc
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_luiz_g.doc')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_luiz_g.doc')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_luiz_g.pptx')" download>Apresentação</a></p>

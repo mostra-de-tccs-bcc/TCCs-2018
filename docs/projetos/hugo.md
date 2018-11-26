@@ -16,4 +16,5 @@ utilizando um dos métodos estudados.
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_hugo.pdf')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_hugo.pdf')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_hugo.pdf')" download>Apresentação</a></p>

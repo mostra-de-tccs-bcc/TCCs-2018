@@ -21,4 +21,5 @@ implementado em QT e QML.
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_luis_fer.pdf')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_luis_fer.pdf')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_luis_fer.pdf')" download>Apresentação</a></p>

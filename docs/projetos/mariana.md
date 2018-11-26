@@ -8,4 +8,5 @@ O cotidiano das pessoas é cada dia mais atarefado, e cada possibilidade de apro
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_mariana.doc')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_mariana.doc')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_mariana.pdf')" download>Apresentação</a></p>

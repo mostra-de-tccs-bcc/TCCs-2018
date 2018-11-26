@@ -8,4 +8,5 @@ Esta monografia apresenta o estudo de métodos da área de Machine Learning apli
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_luis_fel.doc')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_luis_fel.doc')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_luis_fel.pdf')" download>Apresentação</a></p>

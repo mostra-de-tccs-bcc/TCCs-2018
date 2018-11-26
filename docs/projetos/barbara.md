@@ -8,4 +8,5 @@ Todos os dias somos sobrecarregados de informações e essa enorme quantidade mu
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_barbara.doc')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_barbara.doc')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_barbara.pptx')" download>Apresentação</a></p>

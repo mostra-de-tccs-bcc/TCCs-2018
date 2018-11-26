@@ -10,4 +10,5 @@ A presente pesquisa trata de um estudo sobre a Estatística para detecção de b
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_caio.doc')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_caio.doc')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_caio.pdf')" download>Apresentação</a></p>

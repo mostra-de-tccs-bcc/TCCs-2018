@@ -8,4 +8,5 @@ Com a popularização de aplicações de realidade aumentada, como os estúdios 
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_emerson.odt')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_emerson.odt')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_emerson.pdf')" download>Apresentação</a></p>

@@ -8,4 +8,5 @@ A evolução tecnológica em dispositivos móveis possibilitou inúmeras facilid
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_marcello.doc')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_marcello.doc')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_marcello.pdf')" download>Apresentação</a></p>

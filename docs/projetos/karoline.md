@@ -8,4 +8,5 @@ Os avanços tecnológicos das últimas décadas possibilitaram coletar um volume
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_karoline.doc')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_karoline.doc')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_karoline.pptx')" download>Apresentação</a></p>

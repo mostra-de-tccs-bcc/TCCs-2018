@@ -9,4 +9,5 @@ Seam carving é um método de redimensionamento de imagens simples e que mantém
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_victor.doc')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_victor.doc')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_victor.pptx')" download>Apresentação</a></p>

@@ -20,4 +20,5 @@ método, bem como um estudo aprofundado com o sistema híbrido
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_mateus.pdf')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_mateus.pdf')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_mateus.pdf')" download>Apresentação</a></p>

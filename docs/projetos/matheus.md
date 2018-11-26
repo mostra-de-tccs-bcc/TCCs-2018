@@ -8,4 +8,5 @@ Com a expansão das pesquisas e implementações na área de Internet das Coisas
 
 ## Downloads
 
-<a :href="$withBase('/files/resumo_matheus.doc')" download>Resumo</a>
+<p><a :href="$withBase('/files/resumo_matheus.doc')" download>Resumo</a></p>
+<p><a :href="$withBase('/files/apresen_matheus.pdf')" download>Apresentação</a></p>
